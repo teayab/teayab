@@ -12,6 +12,19 @@
 - <b>Vulnerability Assessment Lab</b>
   - [Built a safe practice space to test security with virtual machines and the Nessus scanner](link_to_repository)
 
+<h2>📜 Certifications</h2>
+
+- **Network Security Certification (Cisco)**
+  - Specialized in cybersecurity principles, network defense strategies, and risk management
+  - [View Certificate](link_to_certificate_pdf)
+- **Ethical Hacking Certification (eHunar Program)**
+  - Skills in penetration testing, vulnerability assessment, and ethical hacking methodologies
+  - [View Certificate](link_to_certificate_pdf)
+- **Google Cybersecurity Certificate**
+  - Covered essential areas like network security, cryptography, and incident response techniques
+  - [View Certificate](link_to_certificate_pdf)
+
+
 
 <h2>🤳 Connect with me:</h2>
 
