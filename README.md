@@ -5,7 +5,7 @@
 - <b>Flutter Food Delivery System</b>
   - [Developed a user-friendly food delivery app system with real-time tracking and secure payment options](https://github.com/teayab/NOSH_NOW-Food_delivery_system-)
 - <b>Movie Explorer App</b>
-  - [Built a user-friendly movie app featuring real-time updates on the latest releases and detailed movie information](link_to_repository)
+  - [Built a user-friendly movie app featuring real-time updates on the latest releases and detailed movie information](https://github.com/teayab/movie_database_mobile_app)
  
 <h2>👨‍💻 Cyber Related Projects:</h2>
 
