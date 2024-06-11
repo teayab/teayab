@@ -10,7 +10,7 @@
 <h2>👨‍💻 Cyber Related Projects:</h2>
 
 - <b>Vulnerability Assessment Lab</b>
-  - [Built a safe practice space to test security with virtual machines and the Nessus scanner](link_to_repository)
+  - [Built a safe practice space to test security with virtual machines and the Nessus scanner](https://github.com/teayab/Vulnerability_Assessment_Lab)
 
 <h2>📜 Certifications</h2>
 
