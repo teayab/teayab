@@ -38,5 +38,5 @@
 
 ## 🤝 Connect with me:
 
-📱 [LinkedIn](https://www.linkedin.com/in/muhammad-tayyab-6568922a9)  
-✉️ [Email](mailto:amjadtayyab4@gmail.com)
+📱 [LinkedIn :https://www.linkedin.com/in/muhammad-tayyab-6568922a9](https://www.linkedin.com/in/muhammad-tayyab-6568922a9)  
+✉️ [Email:amjadtayyab4@gmail.com)](mailto:amjadtayyab4@gmail.com)
