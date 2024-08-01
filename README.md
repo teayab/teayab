@@ -1,19 +1,19 @@
 # Hi, I'm Muhammad Tayyab! 
 [Programmer](https://github.com/teayab), [Cybersecurity Professional](https://www.linkedin.com/in/muhammad-tayyab-6568922a9), [Tech Enthusiast](mailto:amjadtayyab4@gmail.com)
 
-## 🧑‍💻 Current Role
+## 🚀 Current Role
 
 - **IT Networking and Troubleshooting Intern** at Interwood  
   Currently working on managing and troubleshooting network issues, configuring and maintaining Fortinet firewalls, providing IT support, and assisting with the implementation of security measures.
 
-## 👨‍💻 Mobile Development Projects:
+## 📱 Mobile Development Projects:
 
 - **Flutter Food Delivery System**  
   [Developed a user-friendly food delivery app system with real-time tracking and secure payment options](https://github.com/teayab/NOSH_NOW-Food_delivery_system-)
 - **Movie Explorer App**  
   [Built a user-friendly movie app featuring real-time updates on the latest releases and detailed movie information](https://github.com/teayab/movie_database_mobile_app)
 
-## 👨‍💻 Cyber Related Projects:
+## 🛡️ Cyber Related Projects:
 
 - **Vulnerability Assessment Lab**  
   [Built a safe practice space to test security with virtual machines and the Nessus scanner](https://github.com/teayab/Vulnerability_Assessment_Lab)
@@ -36,7 +36,7 @@
   Focused on building cross-platform mobile applications using Flutter, including UI/UX design, state management, and app deployment  
   [View Certificate](https://imgur.com/a/l8ywtPm)
 
-## 🤳 Connect with me:
+## 🤝 Connect with me:
 
-[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://www.linkedin.com/in/muhammad-tayyab-6568922a9)  
-[![Email](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg)](mailto:amjadtayyab4@gmail.com)
+📱 [LinkedIn](https://www.linkedin.com/in/muhammad-tayyab-6568922a9)  
+✉️ [Email](mailto:amjadtayyab4@gmail.com)
