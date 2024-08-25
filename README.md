@@ -30,11 +30,11 @@
 
 - **Google Cybersecurity Certificate**  
   Covered essential areas like network security, cryptography, and incident response techniques  
-  [View Certificate](link_to_certificate_pdf)
+  [View Certificate](https://i.imgur.com/OzAAqfb.png)
 
 - **Flutter Mobile Development** (e-Rozgaar)  
   Focused on building cross-platform mobile applications using Flutter, including UI/UX design, state management, and app deployment  
-  [View Certificate](https://imgur.com/a/l8ywtPm)
+  [View Certificate](https://i.imgur.com/ppJNtTZ.png)
 
 ## 🤝 Connect with me:
 
