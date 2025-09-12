@@ -3,8 +3,8 @@
 
 ## 🚀 Current Role
 
-- **IT Networking and Troubleshooting Intern** at Interwood  
-  Currently working on managing and troubleshooting network issues, configuring and maintaining Fortinet firewalls, providing IT support, and assisting with the implementation of security measures.
+- **Network Engineer at Wateen Telecom**  
+  Currently working on handling diverse client networking infrastructure, including deployment, configuration, and troubleshooting of enterprise networks and firewalls.
 
 ## 📱 Mobile Development Projects:
 
