@@ -20,7 +20,7 @@
   [Built a safe practice space to test security with virtual machines and the Nessus scanner](https://github.com/teayab/Vulnerability_Assessment_Lab)
 
 - **Fortinet Site-to-Site VPN Lab**  
-  [Configured and documented a secure site-to-site IPsec VPN between two FortiGate firewalls](https://github.com/teayab/Fortinet_Site_to_Site_Lab)  
+  [Configured and documented a secure site-to-site IPsec VPN between two FortiGate firewalls](https://github.com/teayab/Fortinet_site_to_site)  
   *(Includes full lab documentation and configuration details)*
 
 ## 📜 Certifications
